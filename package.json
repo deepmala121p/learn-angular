@@ -1,6 +1,7 @@
 {
   "dependencies": {
     "jquery": "^3.7.1",
-    "loadash": "^1.0.0"
+    "loadash": "^1.0.0",
+    "typescript": "^5.7.3"
   }
 }
